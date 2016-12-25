@@ -1,3 +1,3 @@
 (function () {
-    console.log('dev');
+    console.log('v1.0.0');
 })()
